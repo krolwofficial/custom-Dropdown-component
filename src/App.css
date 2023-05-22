@@ -1,0 +1,11 @@
+#root {
+  width: 100%;
+  padding: 5px;
+}
+
+@media screen and (min-width: 500px) {
+  #root {
+    max-width: 1280px;
+    width: auto;
+  }
+}
